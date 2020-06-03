@@ -1,3 +1,5 @@
+# Python 3.8.3
+
 from PIL import Image
 from struct import pack, unpack
 from typing import List, Tuple
